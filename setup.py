@@ -19,7 +19,7 @@ setup(
     name='mlproject',
     version='0.0.1',
     author='Piyush',
-    author_email='rpiyushjd8@hmail.com',
+    author_email='rpiyushjd8@gmail.com',
     packages=find_packages(),
 
 )
